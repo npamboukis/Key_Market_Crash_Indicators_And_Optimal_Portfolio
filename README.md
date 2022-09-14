@@ -47,3 +47,6 @@ Do the key indicators identify a possible market crash in our current period bas
 https://fred.stlouisfed.org was used for the key indicators data.
 https://www.investopedia.com/terms/s/stock-market-crash.asp#:~:text=A%20stock%20market%20crash%20is%20an%20abrupt%20drop%20in%20stock,among%20panicked%20investors%20to%20sell was used for market crash definitions.
 https://www.sectorspdr.com/sectorspdr/tools/sector-tracker/charting was used for sector data of the SP500.
+
+## Conclusion
+There isn't one sector in the S&P 500 that performs the best across the three market crashes we observed. As for leading indicators: a large decrease in GDP, increase in unemployment, and a increase in inflation rate are likely indicators of a stock market crash.
